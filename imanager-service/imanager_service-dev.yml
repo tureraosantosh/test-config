@@ -1,4 +1,5 @@
-
+server:
+  port: 3021
 my:
   greet: wow nice very good awsom
   
