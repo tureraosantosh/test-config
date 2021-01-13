@@ -5,4 +5,4 @@ my:
   
 spring:
   application:
-    name: imanager-service
+    name: imanager_service
