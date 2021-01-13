@@ -1,0 +1,8 @@
+server:
+  port: 3021
+my:
+  greet: wow nice very good stage env
+  
+spring:
+  application:
+    name: cmanager_service
