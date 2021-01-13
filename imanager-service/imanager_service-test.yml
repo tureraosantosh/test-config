@@ -1,2 +1,6 @@
 my:
   greet: wow nice very good awsom
+  
+spring:
+  application:
+    name: imanager-service
