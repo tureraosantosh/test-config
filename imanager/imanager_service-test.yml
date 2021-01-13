@@ -1,0 +1,8 @@
+server:
+  port: 3021
+my:
+  greet: wow nice very good test
+  
+spring:
+  application:
+    name: imanager-service
